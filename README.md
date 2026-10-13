@@ -1,4 +1,4 @@
-# Customer Behavior Analysis
+# Customer_Shopping_Analysis.ipynb – Python data analysis
 
 ## Project Overview
 Analyzed customer purchasing patterns, spending habits, and purchase frequency using Python, Pandas, SQL, PostgreSQL, and Power BI.
